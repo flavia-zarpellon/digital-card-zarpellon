@@ -82,8 +82,8 @@ body {
 
 /* FOTO CIRCULAR (FRENTE) */
 .foto-container {
-    width: 115px;
-    height: 115px;
+    width: 135px;
+    height: 135px;
     margin-bottom: 15px;
     border-radius: 50%;
     padding: 3px; 
@@ -120,9 +120,10 @@ body {
 .main-role {
     font-family: 'Roboto Condensed', sans-serif;
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 16px;
     letter-spacing: 4px;
     color: #555;
+    margin-bottom: 12px;
 }
 
 .creci-number {
